@@ -1,0 +1,23 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppmiao0628/my-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppmiao0628/my-webpack/issues"
+  },
+  "homepage": "https://github.com/ppmiao0628/my-webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
